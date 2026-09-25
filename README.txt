@@ -1,1 +1,1 @@
-A&B Field Guide Pro V6 Fresh Rebuild. Upload every file in this folder to the GitHub Pages repository root, replacing old files. This version removes the install card, prevents horizontal overflow, uses mobile-safe grids, and has a fresh service-worker cache.
+A&B Operations Center V7.2 uses the exact A&B shield in the header and Home Screen icons. It adds dashboard readiness counts, chemical locker, equipment locker, saved service records, stain decision center, SDS center, pricing, information, profit, and checklists. Upload all files to the GitHub Pages repository root.
